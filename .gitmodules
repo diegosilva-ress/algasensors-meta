@@ -1,0 +1,12 @@
+[submodule "microservices/temperature-monitoring"]
+	path = microservices/temperature-monitoring
+	url = git@github.com:diegosilva-ress/algasensors-temperature-monitoring.git
+	branch = main
+[submodule "microservices/temperature-processing"]
+	path = microservices/temperature-processing
+	url = git@github.com:diegosilva-ress/algasensors-temperature-processing.git
+	branch = main
+[submodule "microservices/device-management"]
+	path = microservices/device-management
+	url = git@github.com:diegosilva-ress/algasensors-device-management.git
+	branch = main
